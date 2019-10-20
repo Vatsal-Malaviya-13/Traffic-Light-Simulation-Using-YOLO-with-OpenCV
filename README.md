@@ -4,7 +4,8 @@ Technology Used - YOLO(You Only Look Once) and Open CV
 Google Drive Link for Data - https://drive.google.com/drive/folders/1FfSANZ-3C2f5wTtsUbcrpRql_VcYE1Zc?usp=sharing
 
 ### How to install prerequisites?
-1) pip install opencv
+"pip install opencv"
+
 Note : yolo trained model is already added as yolov3.weights
 
 ### Why This project?
