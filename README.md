@@ -1,7 +1,7 @@
 # Traffic Light Simulation and Optimisation using YOLO with OpenCV
 Contributors  - Gautam Bhatia , Vatsal Malviya
 Technology Used - YOLO(You Only Look Once) and Open CV
-Google Drive Link for Data - https://drive.google.com/drive/folders/1FfSANZ-3C2f5wTtsUbcrpRql_VcYE1Zc?usp=sharing
+Google Drive Link for Data - https://drive.google.com/file/d/1zG8eZrdfzzNyOcIiLyIxo5o-pH4643Zx/view?usp=sharing
 
 ### How to install prerequisites?
 "pip install opencv"
